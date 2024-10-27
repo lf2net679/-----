@@ -1,4 +1,4 @@
-# CSV、JSON可視化分析API
+# CSV、JSON可視化分析
 
 這是一個用於CSV和JSON數據可視化分析的API專案,包含了一個基於Streamlit的Boston房價預測應用。本專案提供了強大的工具,可以輕鬆地處理、分析和可視化CSV和JSON格式的數據。
 
